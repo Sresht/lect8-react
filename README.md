@@ -61,7 +61,7 @@ and verify that the React renders. You should see "Hello World from React!" in
 the preview.
 
 **Do not manually edit `static/script.js`! It will update when you make changes.**
-**You do need to push this file to Heroku and GitHub, which is why we put it in**
+**You do not need to push this file to Heroku and GitHub, which is why we put it in**
 **our .gitignore files**
 
 ## 7. Edit HTML
